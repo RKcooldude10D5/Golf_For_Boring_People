@@ -1,0 +1,20 @@
+.body_background 
+{
+    background-position: center;
+    background-size:contain;
+	background-color: lightgreen;
+}
+#myCanvas
+{
+    border-width:10px;
+    border-style:ridge;
+	background-color:darkgreen;
+}
+
+
+#hd3{
+	display: inline-block;
+	color: yellow;
+	font-family: comic-sans;
+}
+
